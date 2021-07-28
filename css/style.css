@@ -117,9 +117,10 @@
 .main .content-img{
     background: url("./resource/bg2.jpeg")no-repeat center;
     background-size: cover;
-    height: 100vh;
+    height: 58rem;
     width: 100%;
-    overflow: auto;
+    overflow: hidden;
+
 }
 .chevron{
     font-size: 3.2rem;
@@ -260,8 +261,9 @@ footer pre {
     .main .content-img{
         background: url("./resource/bg2.jpeg") center;
         background-size: cover;
+        height: 100%;
         width: 100%;
-        overflow: auto;
+        overflow: hidden;
     }
 
     #table{
